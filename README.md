@@ -48,8 +48,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/888663a1-aaf6-4845-97fe-5465605a2381)
 
-     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/dbc23160-5e27-47f1-b107-72a3bcbd1c01)
-
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/4bc20d7b-7979-4ade-9153-7093be755e7c)
+     
 5) To make sure IIS was setup correctly, go to the Microsoft Edge web browser and connect to "127.0.0.1", you should see the below screen if done successfully.
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/e9c30b96-f29a-4dd3-8bca-90949bd281b6)
