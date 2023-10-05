@@ -53,3 +53,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 5) To make sure IIS was setup correctly, go to the Microsoft Edge web browser and connect to "127.0.0.1", you should see the below screen if done successfully.
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/e9c30b96-f29a-4dd3-8bca-90949bd281b6)
+
+6) Install PHP Manager for IIS, open the installer from the download link above. Click all the necessary options to proceed with installation and then close the installer once finished.
+
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/8c8fb509-d126-4a38-95a9-92298e5b9aec)
+
+7) Install IIS URL rewrite module, the instlal can also be found in the downloads linked above. Open said installer and click all the necessary options to proceed with the installation, then close the            installer once finished.
+
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/edb6def0-d962-4dae-96b2-88fa289c907e)
+
