@@ -127,5 +127,56 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/d333a307-d646-4c24-b13a-2b6bca4b638f)
 
 
+15) Go back to the osTicket folder in your C: drive and open the include subfolder to locate the "ost-sampleconfig.php" file, rename this to "ost-config.php".
 
+    ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/06cd5d9b-1a86-4fb4-97e1-bece2500c665)
+
+    Go to the "Security" tab and press advanced to change permissions.
+
+    ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/01227ef9-2c31-419a-8e8a-90a01d92f64f)
+
+    Select "Disable inheritance" and the second option to clear all permissions.
+
+    ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/2c1ca399-ae74-4b5b-aa68-291aac7212d0)
+
+    Add a new persmission for everyone with full control
+
+    ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/159678a8-8a10-4c37-981e-ac81734d7c5d)
+
+    Hit apply, then ok.
+
+16) Time to install HeidiSQL, open the installer and select the necessary options to continue.
+
+    ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/c006df8a-720e-4026-9271-b986f73d3d3c)
+
+    Now select "Launch HeidiSQL" and hit finish.
+
+    ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/6432bed1-6897-4459-947d-de13d541b87b)
+
+    create a new session in the bottom left.
+
+    ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/9dc568c0-9a28-4033-ba2b-d7636898fb7b)
+
+    Enter our previously created "root" login info and hit open.
+
+    ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/829ad05f-7c5f-462a-b21e-33d0bfa7b5e8)
+
+    Right click "Unamed" and select creat new database, name it "osTicket".
+
+    ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/9fd9947d-3998-4ec1-bd36-106697eb82e4)
+
+17) Go back to Microsoft Edge and continue setting up osTicket, fill out the information however you wish, just make sure you save usernames and passwords. For database setting you will have to use the           database we created in HeidiSQL and the "root" username and password.
+
+    ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/cc821421-b4b4-455b-bc39-bd3406744139)
+
+    If successful, you will get this screen.
+
+    ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/230962c0-5d41-4034-b4b9-cc6dbd71c731)
+
+18) Go to http://localhost/osTicket/scp/login.php to test the login, if successful you should see this screen.
+
+    ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/e99ef037-2a75-405f-aa2b-cfc09833f928)
+
+
+osTicket is now succesfully installed into your virtual machine!
 
