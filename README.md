@@ -86,8 +86,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/28daed00-8cb2-4695-a2f8-45b79142d876)
 
-     
-13) 
+12) Open ineternet information services manager as an administrator, then click the "PHP Manager" option.
+
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/c134f557-eb3c-4a54-a05a-e40ee165a95c)
+
+     Select the "Register new PHP version" option.
+
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/965ac2f5-b1a4-4657-8bf7-987971ba2c46)
+
+    
 
 
-
+    
