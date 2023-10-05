@@ -44,11 +44,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/eb09f916-ee3e-4e94-b76e-e51d75050c66)
 
-4) Go down to the "Internet Information Services" option and select the checkbox, then press the + to access more options. Make sure the "Web Management Tools", "IIS Management Console" and "World Wide Web       Services" boxes are marked.
+4) Go down to the "Internet Information Services" option and select the checkbox, then press the + to access more options. Make sure the highlighted boxes are checked, then hit ok.
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/888663a1-aaf6-4845-97fe-5465605a2381)
 
-     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/249f7d5b-242f-4441-bdf7-76ba03a7b4de)
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/8afc48bc-bb95-42a3-a416-99a4564daffa)
 
 5) To make sure IIS was setup correctly, go to the Microsoft Edge web browser and connect to "127.0.0.1", you should see the below screen if done successfully.
 
