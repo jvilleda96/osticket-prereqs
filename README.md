@@ -92,9 +92,40 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
      Select the "Register new PHP version" option.
 
-     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/965ac2f5-b1a4-4657-8bf7-987971ba2c46)
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/9f091e9f-cd64-42c3-969c-be49fc042761)
 
-    
+     Select the "php-cgi.exe" file located in the PHP folder on your C: drive.
+
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/90937c98-043f-470b-9f2b-59d3ddddfe14)
+
+     Refresh the server.
+
+13) Extract the "upload" folder in your osticket zip file to the "wwwroot" subfolder in your "inetpub" folder in your C: drive.
+
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/f47b6f95-6926-469e-83d3-d9462993c852)
+
+     Rename the "upload" folder to "osTicket".
+
+14) Go back to IIS manager and locate the PHP manager for osTicket.
+
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/4eb90940-eb38-4a00-a7a6-eb500dc531a8)
+
+     Scroll down to "Enable or disable an extension".
+
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/460b3821-d51d-481c-9159-21167e686907)
+
+     Enable the following:php_imap.dll, php_intl.dll and php_opcache.dll.
+
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/6f5c0117-78ad-4e40-9053-00d56e0456f4)
+
+     Refresh your osTicket folder and click the Browse*.80 link.
+
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/95bfabd9-9816-4d27-9750-3adcebd5e5df)
+
+     If done correctly, you should have a similar screen as the one below:
+
+    ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/d333a307-d646-4c24-b13a-2b6bca4b638f)
 
 
-    
+
+
