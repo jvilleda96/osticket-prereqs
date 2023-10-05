@@ -62,3 +62,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/edb6def0-d962-4dae-96b2-88fa289c907e)
 
+8) Creat a new folder in your C: drive named "PHP".
+
+9) Unzip the "php-7.3.8" file from the above download link into this new "PHP" folder in your C: drive.
+
+10) Install Microsoft Visual C++ 2015-2022 Redistributable, the installer can be found in the above download link. Select the necessary options to install then close the installer.
+
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/ad5f33ca-671e-4e5e-9eb1-3a7a3ad717d7)
+
+11) Install MySQL Server, open the installer and select the "Typical" installation option, once installed it will automatically open the configuration wizard, click next. Select the "Standard Configuration"       option and click next, then select the "Install As Windows Service" option, hit next. You will then be prompted to creat a password for the user "root", make sure you remember this for future reference.       Click next, execute, then finish.
+
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/c6955e37-d8fe-4cc5-8fe3-0763861e3a13)
+
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/4a8915d9-9e96-45b4-bba2-e07a0fa3ce4f)
+
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/7af67fec-6c55-4e63-9c12-cbd3edf929b7)
+
+     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/28daed00-8cb2-4695-a2f8-45b79142d876)
+
+12) 
+
+
+
