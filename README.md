@@ -58,7 +58,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/8c8fb509-d126-4a38-95a9-92298e5b9aec)
 
-7) Install IIS URL rewrite module, the instlal can also be found in the downloads linked above. Open said installer and click all the necessary options to proceed with the installation, then close the            installer once finished.
+7) Install IIS URL rewrite module, the installer can also be found in the downloads linked above. Open said installer and click all the necessary options to proceed with the installation, then close the            installer once finished.
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/edb6def0-d962-4dae-96b2-88fa289c907e)
 
@@ -86,7 +86,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/28daed00-8cb2-4695-a2f8-45b79142d876)
 
-12) Open ineternet information services manager as an administrator, then click the "PHP Manager" option.
+12) Open internet information services manager as an administrator, then click the "PHP Manager" option.
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/c134f557-eb3c-4a54-a05a-e40ee165a95c)
 
@@ -139,7 +139,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/2c1ca399-ae74-4b5b-aa68-291aac7212d0)
 
-    Add a new persmission for everyone with full control
+    Add a new permission for everyone with full control
 
     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/159678a8-8a10-4c37-981e-ac81734d7c5d)
 
@@ -161,7 +161,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/829ad05f-7c5f-462a-b21e-33d0bfa7b5e8)
 
-    Right click "Unamed" and select creat new database, name it "osTicket".
+    Right click "Unamed" and select create new database, name it "osTicket".
 
     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/9fd9947d-3998-4ec1-bd36-106697eb82e4)
 
@@ -178,5 +178,5 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/e99ef037-2a75-405f-aa2b-cfc09833f928)
 
 
-osTicket is now succesfully installed into your virtual machine!
+osTicket is now successfully installed into your virtual machine!
 
