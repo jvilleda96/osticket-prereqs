@@ -84,7 +84,7 @@ In this tutorial I will guide you through the installation of osTicket.<br />
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/7af67fec-6c55-4e63-9c12-cbd3edf929b7)
 
-     You will then be prompted to creat a password for the user "root", make sure you remember this for future reference. Click next, execute, then finish.
+     You will then be prompted to create a password for the user "root", make sure you remember this for future reference. Click next, execute, then finish.
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/28daed00-8cb2-4695-a2f8-45b79142d876)
 
@@ -116,7 +116,7 @@ In this tutorial I will guide you through the installation of osTicket.<br />
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/460b3821-d51d-481c-9159-21167e686907)
 
-     Enable the following:php_imap.dll, php_intl.dll and php_opcache.dll.
+     Enable the following: php_imap.dll, php_intl.dll and php_opcache.dll.
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/6f5c0117-78ad-4e40-9053-00d56e0456f4)
 
@@ -167,7 +167,7 @@ In this tutorial I will guide you through the installation of osTicket.<br />
 
     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/9fd9947d-3998-4ec1-bd36-106697eb82e4)
 
-18) Go back to Microsoft Edge and continue setting up osTicket, fill out the information however you wish, just make sure you save usernames and passwords. For database setting you will have to use the           database we created in HeidiSQL and the "root" username and password.
+18) Go back to Microsoft Edge and continue setting up osTicket, fill out the information however you wish, just make sure you save usernames and passwords. For the database setting you will have to use the database we created in HeidiSQL and the "root"      username and password.
 
     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/cc821421-b4b4-455b-bc39-bd3406744139)
 
