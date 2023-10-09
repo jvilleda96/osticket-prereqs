@@ -64,7 +64,7 @@ In this tutorial I will guide you through the installation of osTicket.<br />
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/edb6def0-d962-4dae-96b2-88fa289c907e)
 
-9) Creat a new folder in your C: drive named "PHP".
+9) Create a new folder on your C: drive named "PHP".
 
 10) Unzip the "php-7.3.8" file from the above download link into this new "PHP" folder in your C: drive.
 
