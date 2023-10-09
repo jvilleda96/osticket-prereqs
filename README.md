@@ -44,33 +44,35 @@ In this tutorial I will guide you through the installation of osTicket.<br />
 
     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/eb09f916-ee3e-4e94-b76e-e51d75050c66)
 
-4) Go down to the "Internet Information Services" option and select the checkbox, then press the + to access more options. Make sure the highlighted boxes are checked, then hit ok.
+4) Go down to the "Internet Information Services" option and select the checkbox. 
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/888663a1-aaf6-4845-97fe-5465605a2381)
 
+     Then press the "+" to access more options. Make sure the highlighted boxes are checked, then hit ok.
+
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/4bc20d7b-7979-4ade-9153-7093be755e7c)
      
-5) To make sure IIS was setup correctly, go to the Microsoft Edge web browser and connect to "127.0.0.1", you should see the below screen if done successfully.
+6) To make sure IIS was setup correctly, go to the Microsoft Edge web browser and connect to "127.0.0.1", you should see the below screen if done successfully.
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/e9c30b96-f29a-4dd3-8bca-90949bd281b6)
 
-6) Install PHP Manager for IIS, open the installer from the download link above. Click all the necessary options to proceed with installation and then close the installer once finished.
+7) Install PHP Manager for IIS, open the installer from the download link above. Click all the necessary options to proceed with installation and then close the installer once finished.
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/8c8fb509-d126-4a38-95a9-92298e5b9aec)
 
-7) Install IIS URL rewrite module, the installer can also be found in the downloads linked above. Open said installer and click all the necessary options to proceed with the installation, then close the            installer once finished.
+8) Install IIS URL rewrite module, the installer can also be found in the downloads linked above. Open said installer and click all the necessary options to proceed with the installation, then close the            installer once finished.
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/edb6def0-d962-4dae-96b2-88fa289c907e)
 
-8) Creat a new folder in your C: drive named "PHP".
+9) Creat a new folder in your C: drive named "PHP".
 
-9) Unzip the "php-7.3.8" file from the above download link into this new "PHP" folder in your C: drive.
+10) Unzip the "php-7.3.8" file from the above download link into this new "PHP" folder in your C: drive.
 
-10) Install Microsoft Visual C++ 2015-2022 Redistributable, the installer can be found in the above download link. Select the necessary options to install then close the installer.
+11) Install Microsoft Visual C++ 2015-2022 Redistributable, the installer can be found in the above download link. Select the necessary options to install then close the installer.
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/ad5f33ca-671e-4e5e-9eb1-3a7a3ad717d7)
 
-11) Install MySQL Server, open the installer and select the "Typical" installation option, once installed it will automatically open the configuration wizard, click next. 
+12) Install MySQL Server, open the installer and select the "Typical" installation option, once installed it will automatically open the configuration wizard, click next. 
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/c6955e37-d8fe-4cc5-8fe3-0763861e3a13)
 
@@ -86,7 +88,7 @@ In this tutorial I will guide you through the installation of osTicket.<br />
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/28daed00-8cb2-4695-a2f8-45b79142d876)
 
-12) Open internet information services manager as an administrator, then click the "PHP Manager" option.
+13) Open internet information services manager as an administrator, then click the "PHP Manager" option.
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/c134f557-eb3c-4a54-a05a-e40ee165a95c)
 
@@ -100,13 +102,13 @@ In this tutorial I will guide you through the installation of osTicket.<br />
 
      Refresh the server.
 
-13) Extract the "upload" folder in your osticket zip file to the "wwwroot" subfolder in your "inetpub" folder in your C: drive.
+14) Extract the "upload" folder in your osticket zip file to the "wwwroot" subfolder in your "inetpub" folder in your C: drive.
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/f47b6f95-6926-469e-83d3-d9462993c852)
 
      Rename the "upload" folder to "osTicket".
 
-14) Go back to IIS manager and locate the PHP manager for osTicket.
+15) Go back to IIS manager and locate the PHP manager for osTicket.
 
      ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/4eb90940-eb38-4a00-a7a6-eb500dc531a8)
 
@@ -127,7 +129,7 @@ In this tutorial I will guide you through the installation of osTicket.<br />
     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/d333a307-d646-4c24-b13a-2b6bca4b638f)
 
 
-15) Go back to the osTicket folder in your C: drive and open the include subfolder to locate the "ost-sampleconfig.php" file, rename this to "ost-config.php".
+16) Go back to the osTicket folder in your C: drive and open the include subfolder to locate the "ost-sampleconfig.php" file, rename this to "ost-config.php".
 
     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/06cd5d9b-1a86-4fb4-97e1-bece2500c665)
 
@@ -145,7 +147,7 @@ In this tutorial I will guide you through the installation of osTicket.<br />
 
     Hit apply, then ok.
 
-16) Time to install HeidiSQL, open the installer and select the necessary options to continue.
+17) Time to install HeidiSQL, open the installer and select the necessary options to continue.
 
     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/c006df8a-720e-4026-9271-b986f73d3d3c)
 
@@ -165,7 +167,7 @@ In this tutorial I will guide you through the installation of osTicket.<br />
 
     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/9fd9947d-3998-4ec1-bd36-106697eb82e4)
 
-17) Go back to Microsoft Edge and continue setting up osTicket, fill out the information however you wish, just make sure you save usernames and passwords. For database setting you will have to use the           database we created in HeidiSQL and the "root" username and password.
+18) Go back to Microsoft Edge and continue setting up osTicket, fill out the information however you wish, just make sure you save usernames and passwords. For database setting you will have to use the           database we created in HeidiSQL and the "root" username and password.
 
     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/cc821421-b4b4-455b-bc39-bd3406744139)
 
@@ -173,7 +175,7 @@ In this tutorial I will guide you through the installation of osTicket.<br />
 
     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/230962c0-5d41-4034-b4b9-cc6dbd71c731)
 
-18) Go to http://localhost/osTicket/scp/login.php to test the login, if successful you should see this screen.
+19) Go to http://localhost/osTicket/scp/login.php to test the login, if successful you should see this screen.
 
     ![image](https://github.com/jvilleda96/osticket-prereqs/assets/147073936/e99ef037-2a75-405f-aa2b-cfc09833f928)
 
